@@ -12,7 +12,6 @@ Bu repository, projenin **kodlama öncesi backend teknik tasarımını ve geliş
 
 Temel amaç öğrencilerin birbirleriyle yarışması değil, **ortak bir hedefe ulaşmasıdır**.
 
-> **Entegrasyon notu:** Doping Hafıza/Butik sistemleriyle gerçek kullanıcı, grup ve soru bankası entegrasyonu henüz doğrulanmış değildir. Grup dışından kod/link ile katılım koşulları dahil açık kararlar teknik belgelerde işaretlenmiştir.
 
 ## Öne Çıkan Özellikler
 
@@ -121,15 +120,5 @@ Doping-Kesif-Backend-Documentation/
     ├── 19-room-sql-and-er-diagram.md
     └── 20-product-decisions-and-change-log.md
 ```
-
-## Önemli Notlar
-
-- Bu repository bir **teknik tasarım / planlama çalışmasıdır**; API'ler ve SQL örnekleri doğrudan üretim ortamına uygulanmamalıdır.
-- **16–20 numaralı güncel belgeler**, eski yalnızca Butik arkadaş davetine dayanan ifadelerden daha güncel gereksinimleri içerir.
-- Oda kodu ve davet linki, öğrenci kimlik doğrulamasının yerine geçmez; erişim ve yetki kontrolleri ayrıca uygulanmalıdır.
-- Kişisel öğrenci verileri, erişim yetkileri ve saklama politikaları gerçek altyapı ve kurum gereksinimleriyle doğrulanmalıdır.
-- Dokümanlarda önerilen tablo/alan adları mevcut Doping Hafıza veritabanının gerçek şemasını temsil etmez.
-
----
 
 **Doping Keşif** · Backend Teknik Tasarım ve Geliştirme Dokümantasyonu
